@@ -1,6 +1,6 @@
 # Mi Proyecto
 
-![Logo](https://setosystems.odoo.com/web/image/741-df1689b5/logo-bg-wt.svg)
+![Logo](https://setosystems.com/logo-bg-wt.svg)
 
 Bienvenido a mi proyecto.
 
