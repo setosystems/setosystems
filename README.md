@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img source="https://setosystems.odoo.com/web/image/741-df1689b5/logo-bg-wt.svg"/>
+![Logo](https://setosystems.odoo.com/web/image/741-df1689b5/logo-bg-wt.svg)
+
 
 <!--
 **setosystems/setosystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
