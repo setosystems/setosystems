@@ -2,11 +2,6 @@
 
 ![Logo](https://setosystems.com/logo-bg-wt.svg)
 
-Bienvenido a mi proyecto.
-
-## Sección de HTML
-
-Este es un ejemplo de cómo incluir HTML en un archivo README.md.
 
 <h2>Ptoyectos</h2>
 <p>Este es un párrafo en HTML dentro de un archivo Markdown.</p>
