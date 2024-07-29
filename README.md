@@ -1,19 +1,27 @@
-## Hi there 👋
+# Mi Proyecto
 
 ![Logo](https://setosystems.odoo.com/web/image/741-df1689b5/logo-bg-wt.svg)
 
+Bienvenido a mi proyecto.
 
-<!--
-**setosystems/setosystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sección de HTML
 
-Here are some ideas to get you started:
+Este es un ejemplo de cómo incluir HTML en un archivo README.md.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Subtítulo en HTML</h2>
+<p>Este es un párrafo en HTML dentro de un archivo Markdown.</p>
+
+<table>
+  <tr>
+    <th>Columna 1</th>
+    <th>Columna 2</th>
+  </tr>
+  <tr>
+    <td>Fila 1, Celda 1</td>
+    <td>Fila 1, Celda 2</td>
+  </tr>
+  <tr>
+    <td>Fila 2, Celda 1</td>
+    <td>Fila 2, Celda 2</td>
+  </tr>
+</table>
