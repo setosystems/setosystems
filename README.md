@@ -18,10 +18,10 @@ Este es un ejemplo de cómo incluir HTML en un archivo README.md.
   </tr>
   <tr>
     <td>Previazna</td>
-    <td><a href="https://previanza.com/">previanza.com</a>a></td>
+    <td><a href="https://previanza.com/">previanza.com</a></td>
   </tr>
   <tr>
     <td>Electro Tecnic Motor</td>
-    <td><a href="https://etm-ec.com/">etm-ec.com</a>a></td>
+    <td><a href="https://etm-ec.com/">etm-ec.com</a></td>
   </tr>
 </table>
