@@ -1,4 +1,4 @@
-# Mi Proyecto
+# Odoo Official Partners
 
 ![Logo](https://setosystems.com/logo-bg-wt.svg)
 
@@ -8,20 +8,20 @@ Bienvenido a mi proyecto.
 
 Este es un ejemplo de cómo incluir HTML en un archivo README.md.
 
-<h2>Subtítulo en HTML</h2>
+<h2>Ptoyectos</h2>
 <p>Este es un párrafo en HTML dentro de un archivo Markdown.</p>
 
 <table>
   <tr>
-    <th>Columna 1</th>
-    <th>Columna 2</th>
+    <th>Proyecto</th>
+    <th>Enlace</th>
   </tr>
   <tr>
-    <td>Fila 1, Celda 1</td>
-    <td>Fila 1, Celda 2</td>
+    <td>Previazna</td>
+    <td><a href="https://previanza.com/">previanza.com</a>a></td>
   </tr>
   <tr>
-    <td>Fila 2, Celda 1</td>
-    <td>Fila 2, Celda 2</td>
+    <td>Electro Tecnic Motor</td>
+    <td><a href="https://etm-ec.com/">etm-ec.com</a>a></td>
   </tr>
 </table>
