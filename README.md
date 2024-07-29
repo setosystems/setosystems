@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img source="https://setosystems-previanza-main-14462114.dev.odoo.com/web/image/website/1/logo/My%20Website?unique=3de7d68"/>
+
 <!--
 **setosystems/setosystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
